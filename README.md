@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Samarth+Shukla;AI+%7C+ML;Python+Developer;Open+Source;जय+श्री+राम+🚩)](https://git.io/typing-svg)
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 ## 🌐 Connect With Me
