@@ -5,14 +5,13 @@
 
 ![](https://komarev.com/ghpvc/?username=Samarth7272&color=blue)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Samarth7272&theme=tokyonight)
+
 ## 📊 GitHub Stats
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Samarth7272&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Samarth7272&layout=compact&theme=tokyonight"/>
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Samarth7272&theme=tokyonight)
 
 
 <p>
