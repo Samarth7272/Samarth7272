@@ -12,19 +12,13 @@
 <table>
 <tr>
 <td>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samarth7272&theme=tokyonight" width="400"/>
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Samarth7272&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </td>
-
 <td>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samarth7272&theme=tokyonight" width="400"/>
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Samarth7272&layout=compact&theme=tokyonight"/>
 </td>
 </tr>
 </table>
-
 <p>
 <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,git,github,mysql,vscode" />
 </p>
