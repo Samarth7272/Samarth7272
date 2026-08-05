@@ -1,5 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Samarth+Shukla;AI+%7C+ML;Python+Developer;Open+Source;जय+श्री+राम+🚩)](https://git.io/typing-svg)
+
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
