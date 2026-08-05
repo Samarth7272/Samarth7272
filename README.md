@@ -23,10 +23,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Samarth7272&theme=tokyonight&no-frame=true)
 
-## 📈 Activity Graph
-
-[![Samarth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Samarth7272&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/Samarth7272)
-
 
 ## 🚀 Featured Projects
 
