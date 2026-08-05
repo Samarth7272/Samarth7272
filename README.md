@@ -1,9 +1,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samarth7272&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Samarth7272&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Samarth7272&layout=compact&theme=tokyonight"/>
 
 ## 💻 Top Languages
 
