@@ -1,4 +1,15 @@
+
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samarth7272&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+## 💻 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth7272&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samarth7272&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
