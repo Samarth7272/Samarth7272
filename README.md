@@ -25,7 +25,9 @@
 
 ## 📈 Activity Graph
 
-[![Samarth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samarth7272&theme=tokyo-night)](https://github.com/Samarth7272)
+[![Samarth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Samarth7272&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/Samarth7272)
+
+
 ## 🚀 Featured Projects
 
 ⭐ Employee Attrition Prediction System
