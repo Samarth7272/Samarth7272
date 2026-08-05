@@ -19,6 +19,19 @@
 </td>
 </tr>
 </table>
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/Samarth7272">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:samarthworldwide@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,git,github,mysql,vscode" />
 </p>
